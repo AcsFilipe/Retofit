@@ -23,9 +23,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
-
-
-
+    
     ImageView imageView ;
     int numero = 1;
     private String numberOfPhoto = "614";

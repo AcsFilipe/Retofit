@@ -5,6 +5,7 @@ import com.google.gson.annotations.SerializedName;
 
 public class Imagem {
 
+
     @SerializedName("num")
     @Expose
     private Integer num;
